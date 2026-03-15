@@ -1,6 +1,6 @@
 {
-  "name": "LaunchPad",
-  "short_name": "LaunchPad",
+  "name": "Quick LaunchPad",
+  "short_name": "Quick LaunchPad",
   "description": "Your personal web dashboard – sites, search, and productivity widgets. Created by Ashutosh Kesari.",
   "start_url": "/index.html",
   "display": "standalone",
